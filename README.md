@@ -38,8 +38,8 @@ go get -u github.com/gocolly/colly
    
 5) ```bash
 go run main.go
-
 ```
+
 6) output file is in scraped_data.jl
 
 ## Code Example
