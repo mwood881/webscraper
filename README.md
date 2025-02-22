@@ -36,7 +36,8 @@ go get -u github.com/gocolly/colly
 
 4) Run the program:
    
-5) ```bash
+5)
+```bash
 go run main.go
 ```
 
